@@ -1,4 +1,4 @@
 Nama              : TONY NURDIANTO
-Kelas             : TIFRM CID18A
+KELAS             : TIFRM CID18A
 NPM               : 17111317
 PERGURUAN TINGGHI : SEKOLAH TINGGI TEKNOLOGI BANDUNG
